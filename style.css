@@ -1,0 +1,13 @@
+p {
+  text-transform: capitalize;
+  font-family: sans-serif;
+}
+
+button {
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
